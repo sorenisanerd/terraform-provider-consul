@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-consul
+module github.com/sorenisanerd/terraform-provider-consul
 
 require (
 	github.com/hashicorp/consul/api v1.26.1-rc1
