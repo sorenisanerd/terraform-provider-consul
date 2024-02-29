@@ -53,6 +53,3 @@ release:
   # draft: true
 changelog:
   skip: true
-gitea_urls:
-  api: https://gitea.mastercard.dev/api/v1
-  download: https://gitea.mastercard.dev
